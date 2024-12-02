@@ -1,0 +1,9 @@
+O que é versionamento de código e por que ele é essencial no
+desenvolvimento colaborativo de software?
+
+  - Versionamento de código é particionar o processo de desenvolvimento em pequenos commits e branchs.
+  - As branchs são utilizadas para separar o desenvolvimento de uma nova feature ou correção de bug do código principal que está rodando em produção
+  - Os commits servem para atomizar as mudanças, trazendo um histórico de desenvolvimento, possibilitando rollbacks e mapeando o que foi feito em cada commit.
+  - Além disso, o versionamento também é essencial para trabalhar em equipe, criando um repositório remoto que todos da equipe podem acessar e fazer o clone na sua própria máquina, criando suas própriar branchs e subindo as mudanças para o repositório remoto através de pull requests, evintando também os conflitos, pois antes de fazer o merge dos pull requests é possível fazer o review do código e subir na branch principal.
+
+
