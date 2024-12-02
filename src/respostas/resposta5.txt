@@ -1,0 +1,8 @@
+Considere o cenário em que você está trabalhando em um projeto
+de site com sua dupla. Qual seria sua abordagem inicial para
+organizar as tarefas, escolher ferramentas e implementar boas
+práticas de versionamento e desenvolvimento?
+
+  1 - Criaria um repossitório e definiria o padrão de branchs e PRs (ex.: `main` para principal, `develop` para desenvolvimento e as branchs devem ser criadas no formato `{type}/{description}`, como por exemplo `feat/adicionando-login`)
+  2 - Definiria qual a stack que vamos utilizar e qual renderização nosso site precisa e qual ferramenta se adequa melhor a nossa necessidade. (ex.: Se eu preciso de um site sem SEO, de baixo custo e que pode ser montado do lado do cliente, a melhor escolha seria CSR - Client Side Redering, e dessa forma Vite pode ser uma otima opção para desenvolver um site react. Mas se eu preciso de um site com SEO para ser indexado no google, e que a montagem deve ser do lado do servidor, a melhor escolha de renderização seria SSG - Static Site Generator ou SSR - Server Side Rendering, uma opção seria utilizar o Next.js para ambos os casos, pois com ele posso gerar o build static, que vai servir os html já prontos diretamente, no estado que estavam na hora do build, ou criar um servidor que vai montar as páginas do lado do servidor antes de enviar pro cliente)
+  3 - A partir desse ponto eu definiria o padrão do projeto, estrutura de pastas, commits e padrões de código.
