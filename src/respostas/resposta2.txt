@@ -1,0 +1,11 @@
+Cite três ferramentas ou tecnologias amplamente usadas no
+desenvolvimento web e explique como elas ajudam no processo
+de criação de aplicações web.
+
+HTML5
+  - O html foi o primeiro dessa tríade, a ferramenta serve para escrever o texto e estrutura de tags que vai
+  aparecer na página.
+CSS3
+  - Depois veio o css, que serve para fazer a estilização das páginas HTML, trazendo design e identidade
+JavaScript - ES6
+  - Já o javascript veio para trazer a interação com o usuários, fazendo as páginas deixarem de ser estáticas e tornando-as em páginas interativas, que respondem aos eventos gerados pelos usuários
