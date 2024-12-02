@@ -53,3 +53,7 @@ nav ul li  {
   gap: 8px;
   align-items: flex-end;
 }
+
+a {
+  text-decoration: none;
+}
